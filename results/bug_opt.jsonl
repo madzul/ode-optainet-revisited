@@ -1,0 +1,15 @@
+{"inst": "diss_fft8_p16", "ii": 0, "var": "opt-aiNet(200g)", "run": 0, "cost": 3368.0, "reported": 3368.0, "evals": 1795134, "time": 96.34001428400006}
+{"inst": "diss_fft8_p16", "ii": 0, "var": "opt-aiNet(200g)", "run": 1, "cost": 3289.0, "reported": 3289.0, "evals": 1795200, "time": 96.37790049099931}
+{"inst": "diss_fft8_p16", "ii": 0, "var": "opt-aiNet(200g)", "run": 2, "cost": 3420.0, "reported": 3420.0, "evals": 1795200, "time": 95.26861036399987}
+{"inst": "diss_fft8_p16", "ii": 0, "var": "opt-aiNet(200g)", "run": 3, "cost": 3520.0, "reported": 3520.0, "evals": 1794958, "time": 95.64574373699998}
+{"inst": "diss_fft8_p16", "ii": 0, "var": "opt-aiNet(200g)", "run": 4, "cost": 3289.0, "reported": 3289.0, "evals": 1795200, "time": 93.7598647750001}
+{"inst": "diss_rand22_p16", "ii": 1, "var": "opt-aiNet(200g)", "run": 0, "cost": 4490.0, "reported": 4490.0, "evals": 1795200, "time": 96.69655753100051}
+{"inst": "diss_rand22_p16", "ii": 1, "var": "opt-aiNet(200g)", "run": 1, "cost": 4490.0, "reported": 4490.0, "evals": 1795200, "time": 96.19628678499976}
+{"inst": "diss_rand22_p16", "ii": 1, "var": "opt-aiNet(200g)", "run": 2, "cost": 4490.0, "reported": 4490.0, "evals": 1795200, "time": 98.91349244000048}
+{"inst": "diss_rand22_p16", "ii": 1, "var": "opt-aiNet(200g)", "run": 3, "cost": 4500.0, "reported": 4500.0, "evals": 1795200, "time": 96.7190001680001}
+{"inst": "diss_input_00_02_p4", "ii": 2, "var": "opt-aiNet(200g)", "run": 0, "cost": 2763.0, "reported": 2763.0, "evals": 351659, "time": 6.071906827000021}
+{"inst": "diss_rand22_p16", "ii": 1, "var": "opt-aiNet(200g)", "run": 4, "cost": 4500.0, "reported": 4500.0, "evals": 1795200, "time": 97.25399366199963}
+{"inst": "diss_input_00_02_p4", "ii": 2, "var": "opt-aiNet(200g)", "run": 2, "cost": 2763.0, "reported": 2763.0, "evals": 344883, "time": 5.327787017999981}
+{"inst": "diss_input_00_02_p4", "ii": 2, "var": "opt-aiNet(200g)", "run": 1, "cost": 2763.0, "reported": 2763.0, "evals": 353232, "time": 6.078421774999697}
+{"inst": "diss_input_00_02_p4", "ii": 2, "var": "opt-aiNet(200g)", "run": 3, "cost": 2763.0, "reported": 2763.0, "evals": 348260, "time": 6.224289867000152}
+{"inst": "diss_input_00_02_p4", "ii": 2, "var": "opt-aiNet(200g)", "run": 4, "cost": 2763.0, "reported": 2763.0, "evals": 350691, "time": 6.018784664000123}

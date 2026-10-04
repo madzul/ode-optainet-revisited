@@ -1,0 +1,2 @@
+# Optional: only for src/validate_saga.py (cross-check against the SAGA reference schedulers)
+anrg-saga>=2.1

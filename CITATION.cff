@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Revisiting ODE opt-aiNet for heterogeneous DAG scheduling: code and data"
+authors:
+  - family-names: Zulianto
+    given-names: Arief
+repository-code: "https://github.com/madzul/ode-optainet-revisited"
+license: MIT
+date-released: "2026-10-04"
+references:
+  - type: thesis
+    title: "High Performance Computing (HPC) Resource Scheduling Algorithm based on One Time Evaluation, Dynamic Number of Clones, Elitism (ODE) opt-aiNet"
+    authors:
+      - family-names: Zulianto
+        given-names: Arief
+    thesis-type: "Doctoral dissertation"
+    institution:
+      name: "Institut Teknologi Bandung"
+    year: 2016
